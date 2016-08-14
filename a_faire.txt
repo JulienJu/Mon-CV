@@ -1,5 +1,6 @@
-1 - Menu du site
+1 - Menu du site (Fait)
 2 - Page "Expériences professionnelle"
 3 - Page "Formations et scolarité"
 4 - Page "Mon portofolio" regroupant toutes mes créations
 5 - Formulaire de contact
+6 - Ajouter un texte de présentation sur la page d'accueil
