@@ -1,0 +1,5 @@
+1 - Menu du site
+2 - Page "Expériences professionnelle"
+3 - Page "Formations et scolarité"
+4 - Page "Mon portofolio" regroupant toutes mes créations
+5 - Formulaire de contact
